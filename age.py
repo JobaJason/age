@@ -7,4 +7,4 @@ if drive == '有':
 	else:
 		print ('不行,你無照駕駛')
 else:
-	print ('好,沒事')
+	print ('好,沒事') #其他選項
